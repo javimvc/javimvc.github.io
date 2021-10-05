@@ -142,6 +142,10 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
+.subDetails ul li {
+	margin-left: 40px;
+}
+
 .subProyect {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-size: 1.2em;
